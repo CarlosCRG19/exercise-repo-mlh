@@ -1,2 +1,2 @@
 # exercise-repo-mlh
-"Hello world" excercise from second hackathon
+This repository contains my first GitHub project uploaded from my personal computer! 
